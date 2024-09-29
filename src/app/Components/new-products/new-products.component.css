@@ -1,3 +1,17 @@
 p{
     font-size:12px;
 }
+
+.stock{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: small;
+    top: 30px;
+}
+
+.cart{
+    height: 40px;
+    width: 40px;
+    right: 10px;
+    top: 110px;
+}
